@@ -1,4 +1,4 @@
-module github.com/Gouef/database
+module github.com/gouef/database
 
 go 1.23.2
 
