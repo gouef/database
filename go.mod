@@ -1,6 +1,6 @@
 module github.com/gouef/database
 
-go 1.23.2
+go 1.23.4
 
 require (
 	ariga.io/atlas-go-sdk v0.6.4 // indirect
