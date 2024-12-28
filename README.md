@@ -19,3 +19,12 @@ install atlas (for migrations)
 ```sh
 curl -sSf https://atlasgo.sh | sh
 ```
+
+## Contributors
+
+<div>
+<span>
+  <a href="https://github.com/JanGalek"><img src="https://raw.githubusercontent.com/gouef/database/refs/heads/contributors-svg/.github/contributors/JanGalek.svg" alt="JanGalek" /></a>
+</span>
+</div>
+
