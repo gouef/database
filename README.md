@@ -8,7 +8,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/gouef/datatabase)](https://goreportcard.com/report/github.com/gouef/datatabase)
 [![codecov](https://codecov.io/github/gouef/database/branch/main/graph/badge.svg?token=YUG8EMH6Q8)](https://codecov.io/github/gouef/database)
 
-## Vesions
+## Versions
 ![Stable Version](https://img.shields.io/github/v/release/gouef/database?label=Stable&labelColor=green)
 ![GitHub Release](https://img.shields.io/github/v/release/gouef/database?label=RC&include_prereleases&filter=*rc*&logoSize=diago)
 ![GitHub Release](https://img.shields.io/github/v/release/gouef/database?label=Beta&include_prereleases&filter=*beta*&logoSize=diago)
